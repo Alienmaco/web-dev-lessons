@@ -6,6 +6,8 @@ Complete each of the items outlined below.
 1. In the wk-01 folder, make a new file called 'index.html'.
 Define the command(s) you used to create the new file:
 
+I used "cd Web-Projects" then "cd web-dev-lessons" then "cd wk-01" to navigate to the wk-01 folder. I then used "ls" to view  what files were in wk-01 folder and then used "touch index.html" to create an html file in the wk-01 folder.
+
 2. Create a commit for your new file.
 Define the command(s) you used to create the commit:
 
