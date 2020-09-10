@@ -11,6 +11,8 @@ I used "cd Web-Projects" then "cd web-dev-lessons" then "cd wk-01" to navigate t
 2. Create a commit for your new file.
 Define the command(s) you used to create the commit:
 
+I used "git status" to see what changes I made. Then I used "git add index.html" then "git add readme.md" to stage them for commits. Then I used "git commit -m" to commit these changes.
+
 3. Make a simple webpage using your index.html file. Your webpage must include:
 * A paragraph or list (ordered or unordered)
 * A picture
