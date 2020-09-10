@@ -22,3 +22,5 @@ Add a link to your repository here:
 https://github.com/Alienmaco/web-dev-lessons
 
 [1]: http://validator.w3.org// "HTML validator"
+
+NOTE: Question 3 specifies what your webpage HTML should include at a minimum. Ensure that you still have proper headings and structure for semantic HTML.
