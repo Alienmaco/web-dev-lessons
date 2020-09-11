@@ -4,7 +4,7 @@ Complete each of the items outlined below.
 *Commit any and all changes made to this READ.ME file.*
 
 1. Import a font to use for all html elements.
-Font selected:
+Font selected: https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 
 2. Set a different font for all h3 elements.
 Font selected:
