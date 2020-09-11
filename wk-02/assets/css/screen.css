@@ -3,8 +3,13 @@
 
 html {
   font-family: 'Open Sans', Arial, sans-serif;
+  background-color: #FDE4F2;
 }
 
 h3 {
   font-family: 'Gochi Hand', Arial, sans-serif;
+}
+
+p{
+  color: #837BD9;
 }

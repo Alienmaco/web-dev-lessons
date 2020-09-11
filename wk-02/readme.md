@@ -10,10 +10,10 @@ Font selected: https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 Font selected:https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap
 
 3. Change the color of all p elements to the color of your choosing.
-Hex color code:
+Hex color code: #837BD9
 
 4. Change the color of the background to the color of your choosing.
-Hex color code:
+Hex color code: #FDE4F2
 
 6. Change the color of the element with id "main-title" to green.
 
