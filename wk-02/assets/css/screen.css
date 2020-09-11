@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
 
 html {
   font-family: 'Open Sans', Arial, sans-serif;
+}
+
+h3 {
+  font-family: 'Gochi Hand', Arial, sans-serif;
 }

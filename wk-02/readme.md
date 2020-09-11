@@ -7,7 +7,7 @@ Complete each of the items outlined below.
 Font selected: https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 
 2. Set a different font for all h3 elements.
-Font selected:
+Font selected:https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap
 
 3. Change the color of all p elements to the color of your choosing.
 Hex color code:
